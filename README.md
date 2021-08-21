@@ -5,3 +5,5 @@ My code solution for this test was to have a txt file to read and write the top 
 Food point combo scales with amount of same colour fruit collected.
 
 I have used prefabs for fruits and snake body to avoid repetition and to make it easier to adapt Game Object wherever needed.
+
+Video gameplay link: https://youtu.be/CGjgTz0qafc
